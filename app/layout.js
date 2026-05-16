@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Hello World",
-  description: "A simple Next.js hello world app.",
+  title: "AI Quiz Studio",
+  description: "Generate course quizzes from uploaded materials and context.",
 };
 
 export default function RootLayout({ children }) {
